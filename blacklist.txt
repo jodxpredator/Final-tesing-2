@@ -1,0 +1,16 @@
+youtube
+microsoft
+check-host
+.edu
+windows
+google
+tiktok
+amazon
+127.0.0.1
+dstat
+.go.id
+godaddy
+cantdown
+1.1.1.1
+.gov
+github
